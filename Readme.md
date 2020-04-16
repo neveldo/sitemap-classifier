@@ -2,7 +2,14 @@
 
 ## Description
 
-Sitemap classifier is a tool that aims to classify webpage by crawling a sitemap.
+This is an experimental project.
+Sitemap classifier is a tool that aims to classify some articles from a random website by crawling its sitemap.
+
+## Run the scraper
+
+```
+scrapy crawl articles -o data/raw/articles.json
+```
 
 ## Run app
 
