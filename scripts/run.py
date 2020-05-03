@@ -1,11 +1,11 @@
 #! /usr/bin/env python3
 # coding: utf-8
 
-from smclassifier.scrap import scrapper
+from smclustering.clustering import test
 
 
 def main():
-    scrapper.scrap()
+    print("ok")
 
 
 if __name__ == "__main__":

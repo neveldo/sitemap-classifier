@@ -3,4 +3,4 @@ scrapy-rotating-proxies
 requests
 numpy
 pandas
-matplotlib
+sklearn
